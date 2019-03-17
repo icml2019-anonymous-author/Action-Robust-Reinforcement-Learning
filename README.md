@@ -20,8 +20,6 @@ Where method can take 3 values `mdp` `pr_mdp` or `nr_mdp`, where `pr/nr` are the
 *All results are saved in the models folder.*
 
 ## Howto evaluate:
-See `models_example` for our pre-trained data.
-
 Once a model has been trained, run:
 ```bash
 python3.6 test.py --eval_type model
