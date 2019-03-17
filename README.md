@@ -29,7 +29,7 @@ python3.6 test.py --eval_type model
 where `--eval_type model` will evaluate for model (mass) uncertainty and `--eval_type model_noise` will create the 2d visualizations.
 
 ## Howto visualize:
-See `visualize_data.ipynb` for an example of how to access and visualize your models.
+See `Comparison_Plots.ipynb` for an example of how to access and visualize your models.
 
 
 *Our approach is built upon the DDPG implementation by https://github.com/ikostrikov/pytorch-ddpg-naf*
